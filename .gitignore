@@ -1,0 +1,3 @@
+# Ignoramos el directorio BACKUPS y su contenido
+BACKUPS/
+
